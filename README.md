@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Takumi0901&theme=vue)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takumi0901)](https://github.com/anuraghazra/github-readme-stats)
