@@ -32,3 +32,5 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/102Design/contributions.svg" />
   </a>
 </p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Takumi0901&theme=vue)
